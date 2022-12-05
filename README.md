@@ -20,13 +20,17 @@
 - 모델
     - user_features(playtime_forever 사용)
         
-        ![Untitled 5](https://user-images.githubusercontent.com/103106183/205649795-ff8f81df-b03c-4ecb-8406-77808f07c753.png)
+        ![image](https://user-images.githubusercontent.com/103106183/205656856-0a35ac71-4a3f-4a23-ad27-96d82173cbd5.png)
+
         
     - 손실함수로 warp 사용, test_percentage 및 epochs 임의 조정
         
         ![Untitled 6](https://user-images.githubusercontent.com/103106183/205649835-0b025823-a571-41d3-82c7-10faffc55928.png)
         
 - 평가방식
+    - lightFm 모델에서 제공하는 평가방식
+        - precision_at_k
+        - auc
 
 - 실제 추천
     
