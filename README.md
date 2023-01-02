@@ -1,4 +1,7 @@
 # 프로젝트 소개
+
+- 최종 파일
+   - Lightfm_steam_Test3_hyonj_final.ipynb
 - 개요
    - 중앙대학교 빅데이터 수업에서 진행한 팀프로젝트
 - 인원
